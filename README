@@ -1,0 +1,6 @@
+This repository is a project that I completed for one of my classes
+I replicated a popular gameshow called "Wheel of Fortune."
+
+Midterm contains some functions given 
+Main.py lets players play the game
+The other two files store puzzle and score information that Main and Midterm pull from
